@@ -4,7 +4,7 @@ Compile with: $ ./compileOS.sh<br>
 Creates a disk image "diskc.img" with a bootloader, kernel, shell, and small directory.<br>
 (can be run with mdblack/simulator)
 
-Commands:
+Commands:<br>
 $ dir<br>
 Prints out the directory
 	
