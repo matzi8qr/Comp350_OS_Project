@@ -1,6 +1,6 @@
 Tyler Wormald, Sean Howe, Timothy Morel
 
-Compile with: $ ./compileOS.sh\n
+Compile with: $ ./compileOS.sh<br>
 Creates a disk image "diskc.img" with a bootloader, kernel, shell, and small directory.\n
 (can be run with mdblack/simulator)
 
